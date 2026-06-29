@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開方籌式
+  hash: sha256:abaca3040a5c1df55dc84df3d2c98e5a276cf4956f64a6da6ac7ae66e314563f
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:fce2d143d605607545a9ebd463df1e397d978470c1b0a1fb8f5e64588b1027f1

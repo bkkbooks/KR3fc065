@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/57
+seq: 57
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而隔位之又視所開之方以爲等故但知爲開幾乘方卽可因方而先定不必列積後乃作也定商之次計之多少卽知商之有若干次一則止有初商二則有次商三則有三商四則有四商分商之界初商以左第一爲界次商以第二爲界三商以第三爲界餘倣此凡初次三等商除積皆止于各之界知商數之位一則初商所得者單也二則初商所得者十也次商所得者單也三則初商所得者百也次商所得者十也三商所得者單也四以上倣此
+  hash: sha256:22884167b8c0f0c6af739eba8318eaa3c08dd23d1067bb635bec5287ef9d8e99
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:c450677e6b7f2c333e43012026dda7060bc396c68e1f114179a2e758535b6bbd

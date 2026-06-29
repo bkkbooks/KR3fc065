@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 釋開方表用表之處凡表皆用于三乘以上之方平方立方無需此平方立方用表亦可凡表皆用于三乘以上諸方之次三等商初商無需此表例凡表縱行之序皆自上而下横格之序皆自左而右蓋祖泰西筆筭籌筭法爲之表圍線外所列八卦八陣八音十二州等字特借以編排行格以便立説者之指稱及覽者之查考也釋表之例凡釋表縱者曰行横者曰格凡釋表有現已標題者曰標有待于臨時因方填注者曰填得數皆曰列釋表下截
+  hash: sha256:3ea716564713260b1789816e0550572d32da9d3c06b7c8c1747764a19d9ec42f
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:01620a91e40a41894a58f6a0241dd94b0754ef88af92c999ef6b23c8ec21dce6

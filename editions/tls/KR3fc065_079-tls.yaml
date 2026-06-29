@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/79
+seq: 79
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 現商根餘以次遞加其乘次至末廉之乘次皆下其本乘方乘次一等查表三乘方第一廉在艮格乃于絲行之艮格填商根次坎格填自乘次乾格填再乘一填下截列積各行之凡作無論所開爲幾乘方皆從單位作一起自是而左隔位作則視所開之方爲幾乘方以定所隔之位爲若干位方曰三乘則當隔三位乃于表下截單字下作一隔三位于萬字下作一餘倣此
+  hash: sha256:29090985239a1b87b0089bab56c2e8845cb64a03d1796dd010490ef789a5429a
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:7e1acf88ccc5b0e402420456a13cbf74e67065415cbf19144581c4f0df5c0dcb

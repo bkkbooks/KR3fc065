@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 作開方表以版之平且薄者為之廣狹長短無定度縱約五分橫之三粉為之地其縱橫諸界線及標題諸字朱之皆油之用則以墨書諸數朱者欲其留墨者欲其拭而可去也凡表增橫格一即多開一乘方增縱行一即容多開一乘方之廉積數之位故表以廣長為貴也今具開十六乘方以下諸乘方表如左士琳案原表用朱填表用墨今表用墨故填表則改用陰文以別之
+  hash: sha256:af13650d7e6c47c3f70501b7eb523f64b4c69525148261d4a835e78c5b2182d9
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:6433b405f623cf25379fc20e4121c81163a3e6b5aae9e19119fea4c907ee9a4e

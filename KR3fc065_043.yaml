@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/43
+seq: 43
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 初商數進位譜
+  hash: sha256:78efa65dd6696173faa7b6669f7035349452c962220800a3aff344bea2de0d20
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:df4b610199c467a5fc7994295173f72b2ac629d6db495c84145eaa504ab3f636

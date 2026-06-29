@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/84
+seq: 84
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其位十也乃定爲初商七十查列初商數進位譜知三乘方凡初商得七數八數九數者皆于列積左第一之行左進四行書之乃書七十于首左第四行之格次商以前商數次商以初商爲前商依表革行艮坎乾三格所標各乘次乘之得數列之本行艮坎乾各本格謂之前商各乘數查表革行艮格標再乘乃以前商七再乘之得三四三而列之于本行艮格查表革行坎格標自乘乃以前商七自乘之得四九而列之于本行坎格查表革行乾格標商根乃以前商根七列之于本行乾格以表木行艮坎乾三格所列前商各乘數乘金行艮坎乾各本格所填之通率得數列于石行艮坎乾各本格謂之廉法
+  hash: sha256:b54cb01856c3c90adb5cf3d7ee7c4937ccc663ac47001c1563a12eb87eadca78
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:8ce8f22796a251c2024acb86592ccbe50ef3d54ccb69e7023eb606ce2a03322f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者而槪置之又未免因噎廢食矣衡少讀泰西家書熟籌筭旣更得梅氏諸種喜其立論顯豁于泰西氏之學多發明然獨格格于此輒欲以鄙意完其缺以舉子業累未遑也今年秋京兆試報罷旅館無聊同人有以廉隅字索解者忽觸舊志乃創立開諸乘方表以濟籌之窮定爲初商用籌次三等商第一廉廉隅共法者用籌兼用表二廉以下則專用表平方無需此至三乘以上諸方廉數因方遞增其間錯綜雜糅動至混淆以籌並表御之用籌則易于尋其源用表則可以理其紛順逆次第展表釐然循是法也開百乘方如指掌也亦筭學家一快事也夫嘉慶十二年歲次丁卯冬十二月旣望南豐劉衡
+  hash: sha256:b79868686c3c3c07c5d58969cbd9710cc2598365e28361cdc0ee1eea65e1bd8c
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:b094ede295aa72caceaf9b00c81859a1f49855e6c04a5dd3d2eaed9e172d6a50

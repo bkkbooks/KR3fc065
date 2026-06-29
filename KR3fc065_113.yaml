@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/113
+seq: 113
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 列之廉法得數謂之廉積以次自左而右平列于艮坎乾各本格之廉積行內一行一位各數之尾位無論是字是皆緊接各格行之左一行書之艮格二廉積尾位必列于本格之申行坎格三廉積尾位必列于本格之酉行乾格四廉積尾位必列于本格之戌行乃並各廉積及隅積得四三五九八四三二以除積恰盡積有二知次商所得是單數查一廉法小籌首位有空位知商數應書積首左行乃定次商為二尺而于所除餘積首位四之左行書二尺恰與初商八十相接答曰方根八十二尺還原法以八二乘四次即得原積
+  hash: sha256:1bc393a3a79f95a4bee342930a6d5bb4fb7386667edd117a8c0c9cf596492f60
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:3ceb8cd99afbdb46baecd22187ff82063daae9f8cc52dd3ff43f7d810fcd3629

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開方求廉率圖左一為方積右一為隅積中各數為廉率
+  hash: sha256:2c94c333beb873af2f29a1454508dd39e084fcf001e55a072ca021859a0c5872
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:07fc4dd4feca753ab910ec901b07b5cc93561de25663110540713da393e66dd7

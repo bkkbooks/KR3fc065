@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/49
+seq: 49
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 士琳案廉法譜原稿佚去今據後卷所開之方自三乘以至五乘而已故亦僅補三乘四乘五乘三譜以見意其五乘方以次至十六乘方由此可以例推釋次商廉法譜廉法者初商各乘數乘各通率而得之數也凡開方皆有實無法廉法卽其法也梅氏謂之汎積此乃質言之凡方廉愈多則法數愈增猝不易成衡輒以鄙意創爲譜以乘得之數按方按廉按數列之方各爲譜一行一廉一格一數開方者展譜求之廉法立成思過半矣三四等商廉法譜續出
+  hash: sha256:8868fa0b2bf50b1831e5a4de7d870d2472a117c9a7a7bd9e32c30aff966a553d
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:7f598ed4a038d56b0b04f546adaa0f79cea9312960a90ed104e42adf37ac273c

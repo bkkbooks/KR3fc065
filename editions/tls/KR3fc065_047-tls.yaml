@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/47
+seq: 47
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次商廉法譜
+  hash: sha256:c09c48c4380bbb866f0f181153b89a1bcbd8f6fded43b3a3b0f64dd4b667903c
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:ee3a329d5fc54ef9eb57577c74b266ae83b994d3a256e410a37e027b182928a3

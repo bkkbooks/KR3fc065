@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/41
+seq: 41
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 釋通率譜廉率梅氏謂之定率同文筭指謂之通率今仍之梅氏有廉率立成圖式與古圖等衡以鄙意創爲譜方之等自上而下廉之等則自右而左一格一方一行一廉方盡則格盡廉盡則行盡開方者按方求率展譜卽得釋譜古但有圖譜太史公乃易譜爲表譜表一而已矣此稱譜者以有開方表故轉易譜爲表也恐稱名之混也篇中稱譜者三此其一下如列初商數進位譜次商廉法譜義並同
+  hash: sha256:f40aed3b1847491e0b1740d05cf537b7e9de49cfe8ed13972331df4e259ebeeb
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:242ee3a43ddd25265aa839113de1b239999ba084d451315cb306783ae797a3ab

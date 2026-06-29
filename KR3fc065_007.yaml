@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc065/tls/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開方之法古書所載僅及五乘多不著算例同文算指具七乘立論苟簡語不達理少廣拾遺增為十二乘所列開方大法稍明括矣然算例不立標題學者多致眯目是編籌表兼用例必標目繹例展表縷析條分百乘方盡于此矣以幅隘表不畢具具十六乘方得若干例如左如欲列開多乘方則但于表之上層增橫格多一橫格即多開一乘方如開二十乘方則于表上加四橫格即得開二十五乘方于表上加九橫格即得開方之法至是乃大僃云平方立方詳見別卷不贅立說期于易曉故不文且雅不喜難深者之自文也
+  hash: sha256:33df3353585995e525fdbc3cbc1d81c88c35fb22d5570ee671ae646ccee30dc9
+metadata:
+  title: 籌表開諸乘方捷法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc065.xml
+hash: sha256:9668915b434de555757bb488ba802cdea3427299b8d1d5057b28873e38d8f6a6
