@@ -16,7 +16,6 @@ markers:
   - {type: line-break, offset: 24, content: '', id: KR3fc065_tls_095-bkklb1}
   - {type: 'tls:seg-end', offset: 26, content: '', id: KR3fc065_tls_001-p50.s2.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 26, content: '', id: KR3fc065_tls_001-p50.s2.3}
-  - {type: substitution, offset: 33, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fc065_tls_001-p50.s3}
   - {type: line-break, offset: 40, content: '', id: KX_3_dup40, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 60, content: '', id: KR3fc065_tls_001-p50.s4.1}
@@ -42,7 +41,6 @@ markers:
   - {type: line-break, offset: 120, content: '', id: KX_8_dup39, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg-end', offset: 122, content: '', id: KR3fc065_tls_001-p50.s8.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 122, content: '', id: KR3fc065_tls_001-p50.s8.2}
-  - {type: substitution, offset: 125, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 139, content: '', id: KR3fc065_tls_001-p50.s10.1}
   - {type: line-break, offset: 139, content: '', id: KX_10_dup38, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: punctuation, offset: 144, content: ○, id: KR3fc065_tls_095-bkkpn6}
@@ -111,4 +109,4 @@ markers:
   - {type: 'tls:seg-end', offset: 329, content: '', id: KR3fc065_tls_001-p50.s17.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 329, content: '', id: KR3fc065_tls_001-p50.s17.3}
   back: []
-hash: sha256:965e03a7f93f732754792515b9c1461d61eba314db741504dac4d3303b68c13c
+hash: sha256:1c1a50c8769cb191233ca8b81170adbd2c6472aa22100b16f01179dc57eeebe3
