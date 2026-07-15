@@ -54,6 +54,7 @@ markers:
   - {type: 'tls:seg', offset: 104, content: '', id: KR3fc065_tls_001-p43.s8.2}
   - {type: 'tls:seg-end', offset: 105, content: '', id: KR3fc065_tls_001-p43.s8.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 105, content: '', id: KR3fc065_tls_001-p43.s8.3}
+  - {type: substitution, offset: 109, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 116, content: △, id: KR3fc065_tls_082-bkkpn1}
   - {type: 'tls:seg', offset: 120, content: '', id: KR3fc065_tls_001-p43.s10}
   - {type: line-break, offset: 120, content: '', id: KX_10_dup32, _xml_error: duplicate-id, _xml_original_id: KX_10}
@@ -79,6 +80,7 @@ markers:
   - {type: 'tls:seg', offset: 156, content: '', id: KR3fc065_tls_001-p43.s13.3}
   - {type: 'tls:seg', offset: 162, content: '', id: KR3fc065_tls_001-p43.s14}
   - {type: line-break, offset: 162, content: '', id: KX_14_dup26, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 169, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20786}}
   - {type: 'tls:seg', offset: 182, content: '', id: KR3fc065_tls_001-p43.s15.1}
   - {type: line-break, offset: 182, content: '', id: KX_15_dup24, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg-start', offset: 186, content: '', id: KR3fc065_tls_001-p43.s15.2, seg_type: comm, member_ids: [KR3fc065_tls_001-p43.s15.2]}
@@ -109,4 +111,4 @@ markers:
   - {type: 'tls:seg', offset: 222, content: '', id: KR3fc065_tls_001-p43.s17.2}
   - {type: punctuation, offset: 237, content: △, id: KR3fc065_tls_082-bkkpn7}
   back: []
-hash: sha256:b87d3723ac08e2d36bc9915f66ab0c99951c893b0d42980f7c748b19588f82f9
+hash: sha256:bc79d13ed3b1419734183a0050d3d7316d225c6a3dffb003f86530564cb90c56
